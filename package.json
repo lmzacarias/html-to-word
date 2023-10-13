@@ -1,0 +1,17 @@
+{
+  "name": "html-to-word",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "html-docx-js": "^0.3.1",
+    "nodemon": "^3.0.1"
+  }
+}
